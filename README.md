@@ -4,6 +4,20 @@ A Jekyll-powered blog hosted on GitHub Pages.
 
 See it live on: https://chrisrng.github.io/context-window-blog
 
+## Backlog
+
+- https://addyosmani.com/blog/21-lessons/
+- https://www.blog4ems.com/p/why-your-best-engineers-arent-getting-promoted-to-staff-roles
+- https://karpathy.bearblog.dev/year-in-review-2025/
+- https://abseil.io/fast/hints.html
+- https://zhengdongwang.com/2025/12/30/2025-letter.html
+- https://snscratchpad.com/posts/looking-ahead-2026/
+- https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
+- https://ludwigabap.com/posts/on-becoming-competitive-when-joining-a-new-company/
+- https://www.seangoedecke.com/taking-a-position/
+- https://leaddev.com/leadership/managing-complex-organizational-change
+- https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/
+
 ## Local Development
 
 To run this site locally:

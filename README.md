@@ -2,6 +2,8 @@
 
 A Jekyll-powered blog hosted on GitHub Pages.
 
+See it live on: https://chrisrng.github.io/context-window-blog
+
 ## Local Development
 
 To run this site locally:

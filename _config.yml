@@ -1,12 +1,11 @@
 # Site settings
-title: Context Window Blog
-description: A blog about context windows
+title: context window – the blog
+description: Chris Ng's blog about technical leadership, software architecture, and software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: minima
 
 # Exclude from processing
 exclude:
@@ -22,7 +21,3 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Pagination
-paginate: 5
-paginate_path: "/page:num/"

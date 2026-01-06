@@ -1,12 +1,14 @@
 ---
-layout: home
-title: Home
+layout: default
+title: chrisrng
 ---
 
-# Welcome to Context Window Blog
+## Hi, I'm Chris! 💚
 
-This blog explores topics related to context windows, AI, and more.
+I'm currently a Senior Staff Software Engineer at [LinkedIn](https://www.linkedin.com/in/chrisrng).
 
-## Recent Posts
-
-Check out our latest posts below!
+### Previously:
+- Alum of the [Ember Learning Core Team](https://emberjs.com/teams/emeritus/#:~:text=Chris%20Ng)
+- Alum Tech Editor at the [LinkedIn Engineering Blog](https://engineering.linkedin.com/blog)
+- Alum [Editor](https://blog.emberjs.com/author/chris-ng/) at [The Ember Times](https://blog.emberjs.com/tag/newsletter/)
+- Conference speaker at [EmberFest](https://www.youtube.com/watch?v=lpljvcBUye0), [EmberConf](https://www.youtube.com/watch?v=t7O9N87tOqs), [LibertyJS](https://www.youtube.com/watch?v=R4cb7TGV3C8), [ForwardJS](https://twitter.com/chrisrng/status/1266020465656631296), etc.

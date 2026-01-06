@@ -1,8 +1,8 @@
 # Site settings
 title: context window – the blog
 description: Chris Ng's blog about technical leadership, software architecture, and software development.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/context-window-blog" # the subpath of your site, e.g. /blog
+url: "https://chrisrng.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
